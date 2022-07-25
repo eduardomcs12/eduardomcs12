@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduardomcs12
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning the foundations of web developing
+- 🧐 I’m currently learning the foundations of web developing (HTML at the moment).
 - 📫 How to reach me: eduardomcs12@gmail.com
 - :brazil: Brazil
 <!---
